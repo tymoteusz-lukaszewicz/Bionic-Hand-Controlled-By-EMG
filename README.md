@@ -90,44 +90,62 @@ As a hardware-centric project, visual documentation is crucial to showcase the d
 ### Photographs of the Physical Prosthesis
 
 **1. Full Hand Assembled**
+
 ![Full Hand Assembled](photos/hand_layed_down_flat.png)
+
 *Figure 1: Picture of the assembled bionic hand prosthesis.*
 
 **2. Motor Section Top**
-![Motor Section From The Top](photos/motors_from_top.png)
-*Figure 3: Motor section seen from the top*
+
+![Motor Section Top](photos/motors_from_top.png)
+
+*Figure 2: Motor section seen from the top.*
 
 **3. Motor Section Bottom**
-![Motor Section From The Bottom](photos/motors_from_bottom.png)
-*Figure 3: Motor section seen from the bottom*
+
+![Motor Section Bottom](photos/motors_from_bottom.png)
+
+*Figure 3: Motor section seen from the bottom.*
 
 **4. EMG Module Casing**
-![EMG Modulr Casing](photos/EMG_case.jpg)
-*Figure 3: EMG codule casing*
+
+![EMG Module Casing](photos/EMG_case.jpg)
+
+*Figure 4: EMG codule casing.*
 
 ### EMG Signal Comparison
 
 **5. EMG Signal Before Cable Modifications**
+
 ![EMG Signal Before Modification](photos/before_stiffening.png)
-*Figure 4: Raw EMG signal showing significant noise and interference before shortening and stiffening the electrode cables. This signal was taken during hand movement (up-down).*
+
+*Figure 5: Raw EMG signal showing significant noise and interference before shortening and stiffening the electrode cables. This signal was taken during hand movement (up-down).*
 
 **6. EMG Signal After Cable Modifications**
+
 ![EMG Signal After Modification](photos/after_stiffening.png)
-*Figure 5: Raw EMG signal showing drastically reduced noise after implementing the compact sensor housing and cable modifications. This signal was taken during hand movement (up-down).*
+
+*Figure 6: Raw EMG signal showing drastically reduced noise after implementing the compact sensor housing and cable modifications. This signal was taken during hand movement (up-down).*
 
 ### Photographs of the CAD Models
 
 **7. Zoom On The Hinges (CAD)**
+
 ![Zoom On The Hinges](photos/CAD_zoom_on_hinges.png)
-*Figure 6: Photograph of the hinges responsible for bending fingers.*
+
+*Figure 7: Photograph of the hinges responsible for bending fingers.*
 
 **8. Hand From The Back (CAD)**
+
 ![Hand From The Back](photos/CAD_back_of_the_hand.png)
-*Figure 6: Photograph of the back of the hand (servo responsible for flexing thumb visible).*
+
+*Figure 8: Photograph of the back of the hand (servo responsible for flexing thumb visible).*
 
 **9. Hand From The Profile (CAD)**
+
 ![Hand From The Profile](photos/CAD_hand_from_side_top.png)
-*Figure 6: Photograph of the profile of the hand.*
+
+*Figure 9: Photograph of the profile of the hand.*
 
 ### More about the project
 
