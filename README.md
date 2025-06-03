@@ -121,6 +121,7 @@ As a hardware-centric project, visual documentation is crucial to showcase the d
 
 *Figure 5: Raw EMG signal showing significant noise and interference before shortening and stiffening the electrode cables. This signal was taken during hand movement (up-down).*
 
+
 **6. EMG Signal After Cable Modifications**
 
 ![EMG Signal After Modification](photos/after_stiffening.png)
