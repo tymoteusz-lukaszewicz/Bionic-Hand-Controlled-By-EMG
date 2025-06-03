@@ -85,6 +85,7 @@ As a hardware-centric project, visual documentation is crucial to showcase the d
 ### Onshape Model Screenshots
 
 **Explore the Bionic Hand Onshape Project:** https://cad.onshape.com/documents/f7faa55ac548c9bef0bc9558/w/bd6b46742d823c7f0b30afed/e/84a34a6cfd8fc5eab1158611?renderMode=0&uiState=683f47223424a300c01d6417
+
 **Explore the Motor Section Onshape Project:** https://cad.onshape.com/documents/82330b5e9f16e9f612e59c4f/w/ab81fad7eb12cae29176bfde/e/bc5c0132526e09a57f996cd3?renderMode=0&uiState=683f47df1ddc113c49900aeb
 
 ### Photographs of the Physical Prosthesis
